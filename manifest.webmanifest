@@ -1,0 +1,19 @@
+{
+  "name": "pro pedicure — запись",
+  "short_name": "pro pedicure",
+  "description": "Эстетический педикюр в Твери. Услуги, контакты и онлайн-запись.",
+  "lang": "ru",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fbfaf7",
+  "theme_color": "#e9eee7",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
